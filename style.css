@@ -1,0 +1,110 @@
+.jumbotron {
+    background-image: url(image1.jpg);
+    text-align: center !important;
+    padding-top: 100px;
+    height: 990px; 
+    margin-block-start: 0;
+    padding-bottom: 0;
+}  
+.container img{
+    margin: 0 auto;
+    text-align: center;
+    width: 250px;
+    height: 300px;
+    margin-top: 60px;
+    border: 10px #AF9A96 solid;
+    
+    
+
+}
+h2{
+    color: white;
+    font-weight: bold;
+    margin-top: 20px;
+
+}
+
+span{
+    color: #AF9A96;
+    font-size: 20px;
+    margin-top: 10px;
+   
+}
+.text-write{
+    color: white;
+    margin-top: 15px;
+}
+.icon{
+    margin-top: 35px !important;
+}
+.move{
+    margin-top: -32px;
+  
+}
+.nav-item{
+font-size: 100%;
+color: white;
+}
+.navbar-default {
+    background-color: #AF9A96;
+    
+}
+.navbar-nav > li >a{
+    color: white;
+    font-weight: bold;
+    font-size: 18px;
+  }
+  .menu-right {
+      margin-left: 50% !important;
+  }
+  
+  
+  .para{
+      margin-left: 25px;
+      margin-bottom: 20px;
+
+  }
+  
+  
+  .card-img-top{
+    width: 385px;
+    height: 300px;
+   
+  }
+  .form-control{
+      width: 385px;
+      height: 300px;
+  }
+  #submit{
+      widows: 384;
+      color: black;
+      text-align: center;
+  }
+
+
+  a{
+      color: white !important;
+  }
+  .bt {
+      margin: 0 0.5rem !important;
+  }
+
+  #footer{
+    background-color:#AF9A96;
+    padding-top: 100px;
+    margin-top: 50px;
+    
+    padding-bottom: 100px;
+  }
+  .side{
+      margin-left: 90px !important; 
+      color: white;
+  }
+  .fa-arrow-up{
+      margin-left: 90%
+      
+
+  }
+  .fa{
+color: white;
+  }
